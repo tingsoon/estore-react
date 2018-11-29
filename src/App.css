@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  color: black;
 }
 
 .App-logo {
@@ -20,6 +20,10 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.product-list {
+  list-style-type: none;
 }
 
 @keyframes App-logo-spin {
