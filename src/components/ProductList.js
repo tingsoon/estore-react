@@ -55,7 +55,7 @@ class ProductList extends Component {
     console.log("render");
     return (
       <div>
-        <button onClick={this.handleClick}>Add Product</button>
+        <button onClick={this.handleClick}>Add Product Nexus</button>
         <h1>Products</h1>
         {this._renderProducts()}
       </div>
